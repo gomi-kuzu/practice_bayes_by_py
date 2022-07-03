@@ -21,6 +21,7 @@ jupyterlab = "*"
 pyro-ppl = "*"
 gpytorch = "*"
 japanize-matplotlib = "*"
+seaborn = "*"
 
 [dev-packages]
 
